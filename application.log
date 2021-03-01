@@ -1,0 +1,22 @@
+2021-03-01 16:43:43,893  INFO [main] Testsnapdeal:58 - Hovered on the Mobiles and Gaming
+2021-03-01 16:43:45,052  INFO [main] Testsnapdeal:62 - Click on the laptop page
+2021-03-01 16:43:46,544  INFO [main] Testsnapdeal:66 - Minimum price is set for 37,000
+2021-03-01 16:43:49,935  INFO [main] Testsnapdeal:75 - maximum price is set for 70,000
+2021-03-01 16:43:53,420  INFO [main] Testsnapdeal:80 - Selected on the brand lenovo
+2021-03-01 16:43:56,520  INFO [main] Testsnapdeal:87 - clicked on core i5
+2021-03-01 16:43:58,798  INFO [main] Testsnapdeal:91 - Selected on the sort button to select High to low
+2021-03-01 16:43:59,116  INFO [main] Testsnapdeal:93 - Selected High to low
+2021-03-01 16:43:59,509  INFO [main] Testsnapdeal:126 - Sorted prices are in descending order
+2021-03-01 16:43:59,558  INFO [main] Testsnapdeal:126 - Sorted prices are in descending order
+2021-03-01 16:43:59,608  INFO [main] Testsnapdeal:126 - Sorted prices are in descending order
+2021-03-01 16:43:59,643  INFO [main] Testsnapdeal:126 - Sorted prices are in descending order
+2021-03-01 16:44:00,047 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2021-03-01 16:44:00,050 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2021-03-01 16:44:00,051 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2021-03-01 16:44:00,052 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2021-03-01 16:44:00,053 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/mustafa.mohammed/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2021-03-01 16:44:00,287 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2021-03-01 16:44:00,288 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2021-03-01 16:44:00,288 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2021-03-01 16:44:00,288 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2021-03-01 16:44:00,288 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/mustafa.mohammed/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
